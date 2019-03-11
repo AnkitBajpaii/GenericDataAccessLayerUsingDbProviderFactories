@@ -1,0 +1,2 @@
+# GenericDataAccessLayerUsingDbProviderFactories
+Generic dal layer using dbProviderFactories, providing full abstraction
